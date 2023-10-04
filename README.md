@@ -4,7 +4,7 @@ O repositório apresenta uma sequência de páginas simples possuindo cadastro e
 
 💻**Construção**
 
-A construção da tela foi realizada utilizando html e css.
+A construção da tela foi realizada utilizando html.
 
 📋**Pré-requisitos**
 
