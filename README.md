@@ -4,13 +4,17 @@ O repositório apresenta uma sequência de páginas simples possuindo cadastro e
 
 💻**Construção**
 
-A construção da tela foi realizada utilizando html.
+Html
+
+Visual Studio Code
+
+Navegador
 
 📋**Pré-requisitos**
 
 Navegador 
 
-Visual Studio Code
+IDE de preferência ou editor de texto
 
 ▶️**Instalação**
 
